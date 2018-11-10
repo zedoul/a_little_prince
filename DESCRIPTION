@@ -1,0 +1,23 @@
+Package: little.prince
+Type: Package
+Title: A Little Prince
+Version: 0.0.1
+Author: Kim Seonghyun [aut, cre]
+Maintainer: Kim Seonghyun <zedoul@gmail.com>
+Authors@R: c(
+    person("Kim", "Seonghyun", "", "zedoul@gmail.com", c("aut", "cre"))
+    )
+Description: A little prince.
+URL: https://zedoul.github.io/a_little_prince
+BugReports: https://github.com/zedoul/a_little_prince/issues
+Depends:
+    R (>= 3.3.0)
+Imports:
+    magrittr
+Suggests:
+    testthat
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
+VignetteBuilder: knitr

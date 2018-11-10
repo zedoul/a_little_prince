@@ -1,0 +1,17 @@
+---
+title: "Introduction"
+author:
+- "Kim Seonghyun"
+date: "`r Sys.Date()`"
+output: 
+  html_document:
+      toc: true
+      toc_float: true
+      theme: flatly
+vignette: >
+  %\VignetteIndexEntry{quickstart}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+

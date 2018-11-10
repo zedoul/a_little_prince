@@ -1,0 +1,15 @@
+home:
+  strip_header: true
+
+navbar:
+  type: default
+  left:
+  - text: Intro
+    href: articles/00_intro.html
+  - text: Articles
+    menu:
+    - text: Chapter 01
+      href: articles/ch01.html
+  right:
+  - icon: fa-github fa-lg
+    href: https://github.com/tidyverse/dplyr
